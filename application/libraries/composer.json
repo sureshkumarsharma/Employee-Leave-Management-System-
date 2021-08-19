@@ -1,0 +1,18 @@
+{
+    "name": "google/login",
+    "description": "google login with ci3",
+    "autoload": {
+        "psr-4": {
+            "Google\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "suresh",
+            "email": "sureshkumarsharma1990@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}
